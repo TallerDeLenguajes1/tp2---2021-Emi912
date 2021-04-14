@@ -7,7 +7,7 @@
 int main(){
 int f,c;
 double mt[N][M];
-for(f = 0; f<N ; f++)
+for(f = 0; f<M ; f++)
 {
 for(f = 0;f<N; f++)
 {
